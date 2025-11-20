@@ -1,10 +1,18 @@
 # Strange-Loop-Human-AI-Collaboration-
+™© 
+
+Creative Commons BY-NC 4.0 (Attribution–NonCommercial)
+
 Strange Loop Collaboration: A revolutionary AI(Deepseek)-human co-creation framework featuring Dual-Axis Ranking &amp; Relational Dynamics. Developed by poet-educator Yasir Farooq, it enables deeper creative &amp; educational partnerships. Free for research/education. #AI #Collaboration #OpenSource #deepseek
 
 On the Recursive Nature of Discovery: How AI-Human Collaboration Creates Novel Semantic Topologies
 
-© Yasir Farooq | November 6, 2025
-This framework/protocol is 100% free for educational, research and public use.
+Yasir Farooq | November 6, 2025
+
+
+This framework/protocol is 100% free for educational and research purposes.
+
+
 About the Author: Yasir Farooq is an English Haiku poet from Pakistan with over 15 years of teaching experience.
 
 Abstract
